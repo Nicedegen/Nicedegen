@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! I'm <a href="https://daniilshat.ru/" target="_blank">Kirill</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend enthusiast from KZ <img src="https://catamphetamine.gitlab.io/country-flag-icons/3x2/KZ.svg" height="32" alt="kz flag"</h3>
+<h3 align="center">Frontend enthusiast from KZ <img style="margin-left: 10px" src="https://catamphetamine.gitlab.io/country-flag-icons/3x2/KZ.svg" height="24" alt="kz flag"</h3>
 
 <!--
 **Nicedegen/Nicedegen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
