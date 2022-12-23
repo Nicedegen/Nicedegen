@@ -16,7 +16,7 @@ My stack:
   ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
   <br />
   ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-  ![Capacitor](https://img.shields.io/badge/Ionic-52b9ff.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+  ![Capacitor](https://img.shields.io/badge/Capacitor-52b9ff.svg?style=for-the-badge&logo=Capacitor&logoColor=white)
   
 </div>
 
