@@ -5,7 +5,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   
 <div align="left">
 
-My stack: 
+  My stack: 
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,8 +18,8 @@ My stack:
   ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
   ![Capacitor](https://img.shields.io/badge/Capacitor-52b9ff.svg?style=for-the-badge&logo=Capacitor&logoColor=white)
   <br />
-  <br />
-  comming:
+
+  Coming:
   
   <br />
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
