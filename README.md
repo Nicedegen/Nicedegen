@@ -26,13 +26,18 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   
 </div>
   
-<div style="margin-top: 30px">
+<div style="margin-top: 30px" align="left">
   Worked on:
+  
+  2022
   
   - <a href="https://kpp.kz" target="_blank">kpp</a>
   - <a href="https://razum.is" target="_blank">Razum</a> (restore project... 😄)
   - <a href="https://iclinic.kz" target="_blank">IClinic.kz</a>
   - <a href="https://sportqory.kz/ru" target="_blank">SportQory</a>
+  - <a href="https://sportqory.kz/ru" target="_blank">SportQory</a>
+  - <a href="https://sportqory.kz/ru" target="_blank">SportQory</a>
+  - <a href="https://capital.orda-invest.kz" target="_blank">Landing</a> from capital invest (fully)
   
 </div>
 
