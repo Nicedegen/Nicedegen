@@ -1,7 +1,12 @@
 <h1 align="center">Hello there! I'm <a href="https://daniilshat.ru/" target="_blank">Kirill</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer & 
-programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/country-flag-icons/3x2/KZ.svg" style="margin-left: 6px; margin-top: 4px" height="24" alt="kz flag"</h3>
+programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/country-flag-icons/3x2/KZ.svg" style="margin-left: 6px" height="20" alt="kz flag"</h3>
+
+My stack: 
+<ul>
+<li>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) / ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</li>
+</ul>
 
 <!--
 **Nicedegen/Nicedegen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
