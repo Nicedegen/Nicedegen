@@ -17,6 +17,9 @@ My stack:
   <br />
   ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
   ![Capacitor](https://img.shields.io/badge/Capacitor-52b9ff.svg?style=for-the-badge&logo=Capacitor&logoColor=white)
+  <br />
+  <br />
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) - comming...
   
 </div>
 
