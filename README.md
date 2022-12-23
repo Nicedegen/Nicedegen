@@ -5,7 +5,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   
 <div align="left">
 
-  My stack: 
+  Stack: 
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -25,7 +25,16 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
   
 </div>
-
+  
+<div style="margin-top: 30px">
+  Worked on:
+  
+  - <a href="https://kpp.kz" target="_blank">kpp</a>
+  - <a href="https://razum.is" target="_blank">Razum</a> (restore project... 😄)
+  - <a href="https://iclinic.kz" target="_blank">IClinic.kz</a>
+  - <a href="https://sportqory.kz/ru" target="_blank">SportQory</a>
+  
+</div>
 
 
 <!--
