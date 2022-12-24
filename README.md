@@ -26,7 +26,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   
 </div>
   
-<div style="margin-top: 30px" align="left">
+<div style="margin-top: 30px; margin-bottom: 30px" align="left">
   Worked on:
   
   2022
@@ -42,9 +42,11 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   
   participation in 2 startups...
   
+  
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicedegen)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicedegen)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
