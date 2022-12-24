@@ -1,6 +1,6 @@
 <div align="right">
 
-  [![codewars](https://www.codewars.com/users/Nicedegen/badges/small)](https://www.codewars.com/users/Nicedegen)
+  [![codewars](https://www.codewars.com/users/Nicedegen/badges/micro)](https://www.codewars.com/users/Nicedegen)
   
 </div>
 
@@ -51,12 +51,12 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   2022
   
   - <a href="https://kpp.kz" target="_blank">kpp</a>
-  - <a href="https://razum.is" target="_blank">Razum + hybrid apps on capacitor (ionic)</a> (restore project... 😄)
+  - <a href="https://razum.is" target="_blank">Razum</a>  + hybrid apps on capacitor (ionic)(restore project... 😄)
   - <a href="https://iclinic.kz" target="_blank">IClinic.kz</a>
   - <a href="https://sportqory.kz/ru" target="_blank">SportQory</a>
   - <a href="https://capital.orda-invest.kz" target="_blank">Landing</a> from capital invest (fully)
   - <a href="https://beeplay.kz" target="_blank">Beeplay</a>
-  - <a href="https://luxera.kz" target="_blank">Luxera + hybrid apps on capacitor (ionic)</a> (almost fully)
+  - <a href="https://luxera.kz" target="_blank">Luxera</a> + hybrid apps on capacitor (ionic) (almost fully)
   
   
   + participation in 2 startups...
@@ -64,10 +64,16 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   <br />
   
   
-  2023
+  2023 🔭
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&lines=comming+soon)](https://git.io/typing-svg)
      
+</div>
+  
+<div align="right">
+    
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicedegen&theme=solarized_dark)
+    
 </div>
 
 
