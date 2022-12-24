@@ -45,7 +45,12 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   
   
   participation in 2 startups...  
+  
+  
+  [![codewars](https://www.codewars.com/users/nicedegen/badges/large)](https://www.codewars.com/users/nicedegen)   
 </div>
+
+
   
 
 
