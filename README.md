@@ -35,9 +35,12 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   - <a href="https://razum.is" target="_blank">Razum</a> (restore project... 😄)
   - <a href="https://iclinic.kz" target="_blank">IClinic.kz</a>
   - <a href="https://sportqory.kz/ru" target="_blank">SportQory</a>
-  - <a href="https://sportqory.kz/ru" target="_blank">SportQory</a>
-  - <a href="https://sportqory.kz/ru" target="_blank">SportQory</a>
   - <a href="https://capital.orda-invest.kz" target="_blank">Landing</a> from capital invest (fully)
+  - <a href="https://beeplay.kz" target="_blank">Beeplay</a>
+  - <a href="https://luxera.kz" target="_blank">Luxera</a> (almost fully)
+  
+  
+  participation in 2 startups...
   
 </div>
 
