@@ -23,6 +23,10 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+  <br />
+  <br />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicedegen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
 </div>
   
@@ -40,11 +44,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   - <a href="https://luxera.kz" target="_blank">Luxera</a> (almost fully)
   
   
-  participation in 2 startups...
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicedegen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+  participation in 2 startups...  
 </div>
   
 
