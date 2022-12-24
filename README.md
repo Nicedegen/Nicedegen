@@ -25,7 +25,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
   <br />
   <br />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicedegen&layout=compact)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicedegen&layout=compact)(https://github.com/anuraghazra/github-readme-stats)]
 
   
 </div>
