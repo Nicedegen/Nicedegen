@@ -1,4 +1,5 @@
-<h1 align="center">Hello there! I'm <a href="https://daniilshat.ru/" target="_blank">Kirill</a> 
+<h1 align="center">Hello there! I'm <a href="https://daniilshat.ru/" target="_blank">Kirill</a>
+<span align-right>[![codewars](https://www.codewars.com/users/Nicedegen/badges/large)](https://www.codewars.com/users/Nicedegen)<span>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Frontend developer & 
 programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/country-flag-icons/3x2/KZ.svg" style="margin-left: 6px" height="20" alt="kz flag"</h3>
@@ -36,20 +37,18 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   2022
   
   - <a href="https://kpp.kz" target="_blank">kpp</a>
-  - <a href="https://razum.is" target="_blank">Razum</a> (restore project... 😄)
+  - <a href="https://razum.is" target="_blank">Razum + hybrid apps on capacitor (ionic)</a> (restore project... 😄)
   - <a href="https://iclinic.kz" target="_blank">IClinic.kz</a>
   - <a href="https://sportqory.kz/ru" target="_blank">SportQory</a>
   - <a href="https://capital.orda-invest.kz" target="_blank">Landing</a> from capital invest (fully)
   - <a href="https://beeplay.kz" target="_blank">Beeplay</a>
-  - <a href="https://luxera.kz" target="_blank">Luxera</a> (almost fully)
+  - <a href="https://luxera.kz" target="_blank">Luxera + hybrid apps on capacitor (ionic)</a> (almost fully)
   
   
   + participation in 2 startups...
   
   2023 - comming soon
-  
-  
-  [![codewars](https://www.codewars.com/users/Nicedegen/badges/large)](https://www.codewars.com/users/Nicedegen)   
+     
 </div>
 
 
