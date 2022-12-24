@@ -44,9 +44,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   
 </div>
   
-<div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicedegen)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
 
 
 <!--
