@@ -44,10 +44,12 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   - <a href="https://luxera.kz" target="_blank">Luxera</a> (almost fully)
   
   
-  participation in 2 startups...  
+  + participation in 2 startups...
+  
+  2023 - comming soon
   
   
-  [![codewars](https://www.codewars.com/users/nicedegen/badges/large)](https://www.codewars.com/users/nicedegen)   
+  [![codewars](https://www.codewars.com/users/Nicedegen/badges/large)](https://www.codewars.com/users/Nicedegen)   
 </div>
 
 
