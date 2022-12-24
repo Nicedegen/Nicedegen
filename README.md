@@ -64,7 +64,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   <br />
   
   
-  2023 🔭
+  🔭  2023
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&lines=comming+soon)](https://git.io/typing-svg)
      
