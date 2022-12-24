@@ -1,6 +1,8 @@
 <h1 align="center">Hello there! I'm <a href="https://daniilshat.ru/" target="_blank">Kirill</a>
-<span align="right">[![codewars](https://www.codewars.com/users/Nicedegen/badges/large)](https://www.codewars.com/users/Nicedegen)<span>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img style="margin-right: 40px" src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+[![codewars](https://www.codewars.com/users/Nicedegen/badges/large)](https://www.codewars.com/users/Nicedegen)
+</h1>
+
 <h3 align="center">Frontend developer & 
 programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/country-flag-icons/3x2/KZ.svg" style="margin-left: 6px" height="20" alt="kz flag"</h3>
   
