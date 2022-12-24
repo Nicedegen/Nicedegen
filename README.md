@@ -1,10 +1,14 @@
 <h1 align="center">Hello there! I'm Kirill
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
+<br />
 [![codewars](https://www.codewars.com/users/Nicedegen/badges/large)](https://www.codewars.com/users/Nicedegen)
 
 <h3 align="center">Frontend developer & 
 programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/country-flag-icons/3x2/KZ.svg" style="margin-left: 6px" height="20" alt="kz flag"</h3>
+  
+  
+  [![codewars](https://www.codewars.com/users/Nicedegen/badges/large)](https://www.codewars.com/users/Nicedegen)
   
 <div align="left">
 
