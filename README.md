@@ -1,8 +1,11 @@
-<div algin="right">
-  [![codewars](https://www.codewars.com/users/Nicedegen/badges/large)](https://www.codewars.com/users/Nicedegen)
+<div align="right">
+
+  [![codewars](https://www.codewars.com/users/Nicedegen/badges/small)](https://www.codewars.com/users/Nicedegen)
+  
 </div>
 
-<h1 align="center">Hello there! I'm Kirill
+
+<h1 align="center">Hello there! I'm <a href='https://www.linkedin.com/in/kirill-lavrinenko/' target="_blank">Kirill</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <br />
@@ -11,8 +14,6 @@
 <h3 align="center">Frontend developer & 
 programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/country-flag-icons/3x2/KZ.svg" style="margin-left: 6px" height="20" alt="kz flag"</h3>
   
-  
-  [![codewars](https://www.codewars.com/users/Nicedegen/badges/large)](https://www.codewars.com/users/Nicedegen)
   
 <div align="left">
 
@@ -37,6 +38,9 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   <br />
   <br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicedegen&layout=compact)](https://github.com/nicedegen)
+<!--  TODO: unblock when will be leet code statistics  -->
+<!--   [![Nicedegen LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Nicedegen&theme=dark)](https://github.com/Nicedegen/leetcode-stats) -->
+
 
   
 </div>
@@ -57,7 +61,12 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   
   + participation in 2 startups...
   
-  2023 - comming soon
+  <br />
+  
+  
+  2023
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&lines=comming+soon)](https://git.io/typing-svg)
      
 </div>
 
