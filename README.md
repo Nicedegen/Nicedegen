@@ -56,7 +56,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   - <a href="https://sportqory.kz/ru" target="_blank">SportQory</a>
   - <a href="https://capital.orda-invest.kz" target="_blank">Landing</a> from capital invest (fully)
   - <a href="https://beeplay.kz" target="_blank">Beeplay</a>
-  - <a href="https://luxera.kz" target="_blank">Luxera</a> + hybrid apps on capacitor (ionic) (almost fully)
+  - <a href="https://luxera.kz" target="_blank">Luxera</a> + hybrid apps on capacitor (ionic) (+ ios app store release)
   
   
   + participation in 2 startups...
