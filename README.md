@@ -59,7 +59,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   - <a href="https://luxera.kz" target="_blank">Luxera</a> + hybrid apps on capacitor (ionic) (+ ios app store release)
   
   
-  + participation in 2 startups...
+  ⚡ participation in 2 startups...
   
   <br />
   
@@ -68,7 +68,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   
   - <a href="https://github.com/Nicedegen">Ozak</a> release MVP and transfer project to new stack (Nuxt2 to Nuxt3) (✨ link will be later)
   
-  + participation in 2 startups...
+  ⚡ participation in 2 startups...
   
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&lines=comming+soon)](https://git.io/typing-svg)
