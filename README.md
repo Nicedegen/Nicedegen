@@ -66,7 +66,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   
   🔭  2023
   
-  - <a href="https://github.com/Nicedegen">Ozak</a> release MVP and transfer project to new stack (Nuxt2 to Nuxt3) (✨ link will be later)
+  - <a href="http://ozak.kz/home">Ozak</a> release MVP and transfer project to new stack (Nuxt2 to Nuxt3) (✨ link will be later)
   
   ⚡ participation in 2 startups...
   
