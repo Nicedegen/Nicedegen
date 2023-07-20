@@ -71,7 +71,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
 
   Worked on:
   
-  - <a href="http://ozak.kz">Ozak</a> release MVP. comming MLP + hybrid apps (ionic) ✨ - procurement facilitation platform
+  - <a href="http://ozak.kz" target="_blank">Ozak</a> release MVP. comming MLP + hybrid apps (ionic) ✨ - procurement facilitation platform
   
   ⚡ participation in 2 startups...
   
