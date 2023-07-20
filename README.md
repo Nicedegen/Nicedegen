@@ -46,18 +46,19 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
 </div>
   
 <div style="margin-top: 30px; margin-bottom: 30px" align="left">
+  Company: Rocket Firm Astana
+  
   Worked on:
   
   2022
   
-  - <a href="https://kpp.kz" target="_blank">kpp</a>
-  - <a href="https://razum.is" target="_blank">Razum</a>  + hybrid apps on capacitor (ionic)(restore project... 😄)
-  - <a href="https://iclinic.kz" target="_blank">IClinic.kz</a>
-  - <a href="https://sportqory.kz/ru" target="_blank">SportQory</a>
+  - <a href="https://kpp.kz" target="_blank">kpp</a> - information resource for Kazphospate company
+  - <a href="https://razum.is" target="_blank">Razum</a>  + hybrid apps on capacitor (ionic)(restore project... 😄) -  resource for psychological help with VC
+  - <a href="https://iclinic.kz" target="_blank">IClinic.kz</a> -  resource for medical help with VC
+  - <a href="https://sportqory.kz/ru" target="_blank">SportQory</a> - information resource for SportQory (sports committee)
   - <a href="https://capital.orda-invest.kz" target="_blank">Landing</a> from capital invest (fully)
-  - <a href="https://beeplay.kz" target="_blank">Beeplay</a>
-  - <a href="https://luxera.kz" target="_blank">Luxera</a> + hybrid apps on capacitor (ionic) (+ ios app store release)
-  
+  - <a href="https://beeplay.kz" target="_blank">Beeplay</a> - game resource for Beeline company
+  - <a href="https://luxera.kz" target="_blank">Luxera</a> + hybrid apps on capacitor (ionic) (+ ios app store release) - stock branded marketplace
   
   ⚡ participation in 2 startups...
   
@@ -65,8 +66,12 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   
   
   🔭  2023
+
+  Company: Unis
+
+  Worked on:
   
-  - <a href="http://ozak.kz/home">Ozak</a> release MVP and transfer project to new stack (Nuxt2 to Nuxt3) (✨ link will be later)
+  - <a href="http://ozak.kz">Ozak</a> release MVP. comming MLP + hybrid apps (ionic) ✨ - procurement facilitation platform
   
   ⚡ participation in 2 startups...
   
