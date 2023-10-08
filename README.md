@@ -32,7 +32,9 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   <br />
 
   Coming:
-  
+
+  ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+   <br />
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
   <br />
@@ -71,9 +73,12 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
 
   Worked on:
   
-  - <a href="http://ozak.kz" target="_blank">Ozak</a> release MVP. comming MLP + hybrid apps (ionic) ✨ - procurement facilitation platform
+  - <a href="http://ozak.kz" target="_blank">Ozak</a> Release MLP + hybrid apps (ionic) ✨ - procurement facilitation platform
+  - <a href="#" target="_blank">CTE platform</a> - comming MVP 🔭. (link comming soon)
+  <br /> startup training platform with videoconferencing integration (React + kinescope) <br />
   
-  ⚡ participation in 2 startups...
+
+  ⚡ participation in startup...
   
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&lines=comming+soon)](https://git.io/typing-svg)
