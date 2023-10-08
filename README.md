@@ -69,7 +69,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   
   Worked on:
   
-  2022
+  2021 - 2023
   
   - <a href="https://kpp.kz" target="_blank">kpp</a> - information resource for Kazphospate company
   - <a href="https://razum.is" target="_blank">Razum</a>  + hybrid apps on capacitor (ionic)(restore project... 😄) -  resource for psychological help with VC
