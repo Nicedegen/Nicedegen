@@ -49,7 +49,23 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
 </div>
   
 <div style="margin-top: 30px; margin-bottom: 30px" align="left">
-  Company: Rocket Firm Astana
+  🔭  2023
+
+  Company: <a href="https://unis.kz/" target="_blank">Unis</a>
+
+  Worked on:
+  
+  - <a href="http://ozak.kz" target="_blank">Ozak</a> Release MLP + hybrid apps (ionic) ✨ - procurement facilitation platform
+  - <a href="#" target="_blank">CTE platform</a> - comming MVP 🔭. (link comming soon)
+  <br /> startup training platform with videoconferencing integration (React + kinescope) <br />
+  
+
+  ⚡ participation in startup...
+
+  <br />
+  <br />
+  
+  Company: <a href="https://rocketfirm.com/" target="_blank">Rocket Firm Astana</a>
   
   Worked on:
   
@@ -66,20 +82,6 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   ⚡ participation in 2 startups...
   
   <br />
-  
-  
-  🔭  2023
-
-  Company: Unis
-
-  Worked on:
-  
-  - <a href="http://ozak.kz" target="_blank">Ozak</a> Release MLP + hybrid apps (ionic) ✨ - procurement facilitation platform
-  - <a href="#" target="_blank">CTE platform</a> - comming MVP 🔭. (link comming soon)
-  <br /> startup training platform with videoconferencing integration (React + kinescope) <br />
-  
-
-  ⚡ participation in startup...
   
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=fff&lines=comming+soon)](https://git.io/typing-svg)
