@@ -31,24 +31,39 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
   ![Capacitor](https://img.shields.io/badge/Capacitor-52b9ff.svg?style=for-the-badge&logo=Capacitor&logoColor=white)
   <br />
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Strapi](https://img.shields.io/badge/Strapi-0078D6)
+  <br />
 
-  Coming:
+<!--  Coming:
 
   ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
- <!--  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) -->
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+-->
   <br />
   <br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicedegen&layout=compact)](https://github.com/nicedegen)
 <!--  TODO: unblock when will be leet code statistics  -->
-<!--   [![Nicedegen LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Nicedegen&theme=dark)](https://github.com/Nicedegen/leetcode-stats) -->
+<!--   [![Nicedegen LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Nicedegen&theme=dark)](https://github.com/Nicedegen/leetcode-stats)
 
 
   
 </div>
   
 <div style="margin-top: 30px; margin-bottom: 30px" align="left">
+  🔭  end 2023 -> 2024 (until now)
+
+  Company: <a href="https://home.kz/" target="_blank">Home credit bank</a>
+
+  Worked on:
+  
+  - <a href="https://home.kz" target="_blank">HC Bank</a> bank's main website (Nuxt 3 + strapi)
+  - <a href="https://cte-platform.kz/" target="_blank">CTE platform</a> - comming MLP 🔭
+  <br /> startup training platform (React) <br />
+
+  ⚡ participation two more startups... (nuxt 3 + node.js fullstack)
+
+  
   🔭  2023
 
   Company: <a href="https://unis.kz/" target="_blank">Unis</a>
@@ -56,7 +71,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   Worked on:
   
   - <a href="http://ozak.kz" target="_blank">Ozak</a> Release MLP + hybrid apps (ionic) ✨ - procurement facilitation platform
-  - <a href="#" target="_blank">CTE platform</a> - comming MVP 🔭. (link comming soon)
+  - <a href="https://cte-platform.kz/" target="_blank">CTE platform</a> - comming MVP 🔭.
   <br /> startup training platform with videoconferencing integration (React + kinescope) <br />
   
 
