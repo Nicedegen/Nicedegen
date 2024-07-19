@@ -32,7 +32,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   ![Capacitor](https://img.shields.io/badge/Capacitor-52b9ff.svg?style=for-the-badge&logo=Capacitor&logoColor=white)
   <br />
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Strapi](https://img.shields.io/badge/Strapi-0078D6)
+  ![Strapi](https://img.shields.io/badge/Strapi-0078D6?style=for-the-badge&logo=node.js&logoColor=white)
   <br />
 
 <!--  Coming:
@@ -44,7 +44,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   <br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicedegen&layout=compact)](https://github.com/nicedegen)
 <!--  TODO: unblock when will be leet code statistics  -->
-<!--   [![Nicedegen LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Nicedegen&theme=dark)](https://github.com/Nicedegen/leetcode-stats)
+<!--   [![Nicedegen LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Nicedegen&theme=dark)](https://github.com/Nicedegen/leetcode-stats) -->
 
 
   
