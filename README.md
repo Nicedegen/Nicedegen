@@ -39,14 +39,16 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
 
   ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
--->
+
   <br />
   <br />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicedegen&layout=compact)](https://github.com/nicedegen)
+  -->
 <!--  TODO: unblock when will be leet code statistics  -->
 <!--   [![Nicedegen LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Nicedegen&theme=dark)](https://github.com/Nicedegen/leetcode-stats) -->
 
-
+  <br />
+  <br />
   
 </div>
   
@@ -63,6 +65,8 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
 
   ⚡ participation two more startups... (nuxt 3 + node.js fullstack)
 
+  <br />
+  <br />
   
   🔭  2023
 
