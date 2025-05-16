@@ -62,7 +62,7 @@ programming enthusiast from KZ <img src="https://catamphetamine.gitlab.io/countr
   - <a href="https://home.kz" target="_blank">HC Bank</a> bank's main website (Nuxt 3 + strapi)
   - <a href="https://cte-platform.kz/" target="_blank">CTE platform</a> - comming MLP 🔭
   <br /> startup training platform (React) <br />
-  startup failed =)   <br />
+  <br />Update - startup failed =)   <br />
 
   ⚡ participation two more startups... (nuxt 3 + node.js fullstack)
 
